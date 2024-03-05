@@ -14,9 +14,15 @@ Using single-cell, high-parameter analysis platforms, such as mass cytometry, to
 Contact Information:
 
 Stanford School of Medicine
+
 Department of Pediatrics
+
 Lorry Lokey Stem Cell Research Building, SIM-1
+
 265 Campus Drive
+
 Room G2078b
+
 Stanford, CA 94305
+
 MC: 5457
