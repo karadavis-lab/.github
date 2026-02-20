@@ -10,11 +10,12 @@ Using single-cell, high-parameter analysis platforms, such as mass cytometry, to
 
 ## Overview of our lab's tools:
 
-### CellFuse: Multi-modal integration of single-cell and spatial proteomics data
+**[CellFuse](https://github.com/kara-davis-lab/CellFuse):** Multi-modal integration of single-cell and spatial proteomics data 
 
-### Mixture modeling for multiple-instance learning (MMIL): an expectation maximization method that learns cell-level classifiers from patient-level labels, enabling identification of disease-associated cells in single-cell data without requiring gold-standard cell annotations
+**[MMIL](https://github.com/keyes-timothy/mmil):** An expectation maximization method that learns cell-level classifiers from patient-level labels, enabling identification of disease-associated cells without gold-standard cell annotations.
 
-### TidyTOF: A user-friendly framework for interactive and reproducible cytometry data analysis
+**[TidyTOF](https://github.com/keyes-timothy/tidytof):** A user-friendly framework for interactive and reproducible cytometry data analysis.
+
 
 
 ---
