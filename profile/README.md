@@ -8,7 +8,7 @@ To address the intrinsic heterogeneity of primary cancers, we have taken a singl
 
 Using single-cell, high-parameter analysis platforms, such as mass cytometry, to examine primary patient samples, we seek to identify how childhood cancers diverge from their healthy tissue of origin and how cancer cells may exploit developmental states for their benefit. Further, what populations or features of tumor cells are associated with clinical outcomes of interest, such as site of disease, relapse, or drug resistance? Using this knowledge, we can further investigate new approaches to treatment for children with cancer and mechanisms of drug resistance, and with a particular interest in how this relates to immunotherapeutic approaches to cancer treatment.
 
-## Overview of our lab's tools:
+## Overview of our lab's tools
 
 **[CellFuse](https://github.com/kara-davis-lab/CellFuse):** Multi-modal integration of single-cell and spatial proteomics data 
 
