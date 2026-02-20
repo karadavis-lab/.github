@@ -8,6 +8,14 @@ To address the intrinsic heterogeneity of primary cancers, we have taken a singl
 
 Using single-cell, high-parameter analysis platforms, such as mass cytometry, to examine primary patient samples, we seek to identify how childhood cancers diverge from their healthy tissue of origin and how cancer cells may exploit developmental states for their benefit. Further, what populations or features of tumor cells are associated with clinical outcomes of interest, such as site of disease, relapse, or drug resistance? Using this knowledge, we can further investigate new approaches to treatment for children with cancer and mechanisms of drug resistance, and with a particular interest in how this relates to immunotherapeutic approaches to cancer treatment.
 
+## Overview of our lab's tools:
+
+### CellFuse: Multi-modal integration of single-cell and spatial proteomics data
+
+### Mixture modeling for multiple-instance learning (MMIL): an expectation maximization method that learns cell-level classifiers from patient-level labels, enabling identification of disease-associated cells in single-cell data without requiring gold-standard cell annotations
+
+### TidyTOF: A user-friendly framework for interactive and reproducible cytometry data analysis
+
 
 ---
 
