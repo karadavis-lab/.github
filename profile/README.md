@@ -10,7 +10,7 @@ Using single-cell, high-parameter analysis platforms, such as mass cytometry, to
 
 ## Overview of our lab's tools
 
-**[CellFuse](https://github.com/kara-davis-lab/CellFuse):** Multi-modal integration of single-cell and spatial proteomics data 
+**[CellFuse](https://github.com/karadavis-lab/CellFuse):** Multi-modal integration of single-cell and spatial proteomics data 
 
 **[MMIL](https://github.com/keyes-timothy/mmil):** An expectation maximization method that learns cell-level classifiers from patient-level labels, enabling identification of disease-associated cells without gold-standard cell annotations.
 
